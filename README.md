@@ -2,6 +2,13 @@
 
 专注于将 PPT 全部页面按 **1+4 模版**批量制作成高质量小红书竖屏封面（3:4 比例）的 AI Agent Skill。兼容 Claude Code、Gemini CLI / Antigravity、Codex、Cursor 等支持 `SKILL.md` 规范的 AI 编程助手。
 
+## 🖼️ 产出效果预览
+
+<p align="center">
+  <img src="./assets/demo_1.jpg" width="45%" alt="1+4 封面效果示例 1" />
+  <img src="./assets/demo_2.jpg" width="45%" alt="1+4 封面效果示例 2" />
+</p>
+
 ---
 
 ## 💡 核心工作流（全自动端到端）
